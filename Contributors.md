@@ -10,6 +10,7 @@ Adam Blaylock
 - [Sai Priya](https://github.com/Saipriyavadisina)
 - Daniel Danaee
 - Mahmoud Elhalwany
+- Prabath Samarasinghe
 - [meet0806](https://github.com/meet0806)
 - [Hannah Campbell](https://github.com/hannahckc)
 - [Cesar Valdez Jacinto](https://github.com/CesarVJ)
